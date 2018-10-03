@@ -13,7 +13,7 @@ class Solution {
         vowList.add('O');
         vowList.add('U');
         
-        char[] c = s.toLowerCase().toCharArray();
+        char[] c = s.toCharArray();
         String res = "";
         int i= 0;
         int j= s.length()-1;
