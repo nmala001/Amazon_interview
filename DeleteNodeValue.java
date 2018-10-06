@@ -21,6 +21,6 @@ class Solution {
                     n = n.next;  
                 }
             }
-        return head;  
+        return helper.next;  
         }         
     }
