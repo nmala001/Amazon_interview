@@ -1,0 +1,7 @@
+Max Heap and Min Heap:
+
+Min Heap: The root node is always smaller than the child nodes.
+
+Max Heap: The root node is always larger than the child nodes.
+
+
