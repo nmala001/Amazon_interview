@@ -1,0 +1,20 @@
+1. Check the internet connectivity.
+2. Check internet speed.
+3. Try to open site on another internet.
+4. Clean the cache of the browser and then open the url.
+5. Try to open url on another browser.
+6. Change the system and open url on another system.
+7. Check server response.
+8. Check load on server.
+9. try to check the logs on server.
+10. Restart you system and then open.
+11. Check the browser console and check the errors on console.
+12. Check of js and css files are very heavy or maximum inline css have been used.
+13. Check if user is downloading or browsing something very heavy files.
+14. Check if browser is updated or does it support to this browser.
+15. Check if user has the permission to open the site in that locale.
+16. Try to find out the image sizes used on site that might be possible that they have used large size of images which takes long time to load the images.
+17. Check if user has entered the correct url.
+18. Check if user has installed some bad addon on the browser which are preventing to user to open the site.
+19. Check if you ISP is allowed you to open that site.
+20. Check the RAM and other memory resources of your system, that might be possible that user system is busy with other heavy resources.
