@@ -64,10 +64,10 @@ Result:
 
 5. When have you used your fact finding skills to solve a problem?
 
-Situation:
-Task:
-Action:
-Result:
+Situation: There was a situation where we were facing the problem of slow rendering of the website. 
+Task: It was very important to address this issue because it was a business that has time sensitivity involved. Slowness can very well have an effect on the patient(Aggression detection tracker)
+Action:I adopted a lightweight front end with CDNS rather than the files itself on the server, minified versions of js , css and other front end libraries and also clear out the cache regularly to improve the site performance. There were many more actions that I have taken.
+Result: Asa result of which the site rendered much more fastly and accurately than previous which in turn had an impact on how quickly the results were fetched and improved the patient tracking.
 
 6. Situation where you worked under pressure?
 Yes, I actually enjoy working under pressure, though I believe that proper planning and good time management will greatly reduce any alarming deadlines.
