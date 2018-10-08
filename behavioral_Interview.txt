@@ -65,6 +65,14 @@ Task:
 Action:
 Result:
 
+6. Situation where you worked under pressure?
+Yes, I actually enjoy working under pressure, though I believe that proper planning and good time management will greatly reduce any alarming deadlines.
+
+Situation: During my time at cognizant there was a time where I was given multiple responsibilities. I was both a trainee and also the batch representative. 
+Task: I was assigned a task to give the timely reports of the progress of all the candidates apart from doing my own project(Completing the project in the given deadline).
+Action: I came up with a plan of using the git hub repository. creating the repositories for individual teams and making my supervisor as the collaborator.
+Result: This action reduced my burden a little bit of creating the reports. As the progress of individual team can be seen by the supervisor on the github. This also gave a solution to the problem of integrating each others code which reduced much important time given to integrate and find bugs after the integration.
+
 
 7. Why Amazon?
 
