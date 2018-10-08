@@ -60,3 +60,14 @@ Situation:
 Task:
 Action:
 Result:
+
+6. When have you used your fact finding skills to solve a problem?
+
+Situation:
+Task:
+Action:
+Result:
+
+
+7. Why Amazon?
+
