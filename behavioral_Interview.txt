@@ -46,3 +46,17 @@ Situation:
 Task:
 Action:
 Result:
+
+4. Give me an example of a time when you showed initiative.
+
+Situation:
+Task:
+Action:
+Result:
+
+5. Give me an example of a time when you motivated others.
+
+Situation:
+Task:
+Action:
+Result:
