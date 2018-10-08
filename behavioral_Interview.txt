@@ -24,14 +24,17 @@ Invent -> Experiment->sometimes you fail-> Think long term
 11. Deliver Results: Focus on the key inputs of your business and deliver with right quality and a timely fashion.
 
 
-1. Disagreement with an employer?
+1. Disagreement with an employer? conflict at work
 
 disagreed and (yet) committed.
 
-Situation:
-Task:
-Action:
-Result:
+Situation: It was during my work at Old dominion university. Looking at how the projects are managed and documented(barely no documentation at all) which made the life of a programmer a lot more difficult.
+Task: I proposed a plan to implement an in house wiki where the work done by the individual is documented and a track of the project can be monitored
+Action: The proposal was declined by my supervisor. At that point he thought that the need for such a tool is not at all necessary. 
+Though I was not at all satisfied by the outcome of that discussion, I was still committed to the project and carried out the tasks assigned to me.  
+Result: There was a time when most of the people working had to leave the organisation and the people responsible for their part of the work were not present there to explain the new individuals what exactly was happening. 
+My manager realised the importance of having some sort of project management tool and the necessity of concrete documentation.
+
 
 2. Tell me a challenge you had where the best way forward was not clear cut. How did you decide what to do?
 
@@ -54,14 +57,8 @@ Task:
 Action:
 Result:
 
-5. Give me an example of a time when you motivated others.
 
-Situation:
-Task:
-Action:
-Result:
-
-6. When have you used your fact finding skills to solve a problem?
+5. When have you used your fact finding skills to solve a problem?
 
 Situation:
 Task:
