@@ -26,6 +26,10 @@ Invent -> Experiment->sometimes you fail-> Think long term
 
 1. Disagreement with an employer? conflict at work
 
+Describe a project or idea that was implemented primarily because of your efforts.(In house wiki)
+
+//How you worked with others to have it completed
+
 disagreed and (yet) committed.
 
 Situation: It was during my work at Old dominion university. Looking at how the projects are managed and documented(barely no documentation at all) which made the life of a programmer a lot more difficult.
@@ -72,6 +76,7 @@ Situation: During my time at cognizant there was a time where I was given multip
 Task: I was assigned a task to give the timely reports of the progress of all the candidates apart from doing my own project(Completing the project in the given deadline).
 Action: I came up with a plan of using the git hub repository. creating the repositories for individual teams and making my supervisor as the collaborator.
 Result: This action reduced my burden a little bit of creating the reports. As the progress of individual team can be seen by the supervisor on the github. This also gave a solution to the problem of integrating each others code which reduced much important time given to integrate and find bugs after the integration.
+
 
 
 7. Why Amazon?
