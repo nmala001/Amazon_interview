@@ -39,3 +39,10 @@ Situation:
 Task:
 Action:
 Result:
+
+3. Give me an example of something you tried to accomplish but failed.
+
+Situation:
+Task:
+Action:
+Result:
